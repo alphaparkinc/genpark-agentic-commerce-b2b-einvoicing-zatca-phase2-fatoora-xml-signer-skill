@@ -1,0 +1,16 @@
+{
+  "name": "genpark-agentic-commerce-b2b-einvoicing-zatca-phase2-fatoora-xml-signer-skill",
+  "version": "1.0.0",
+  "title": "Saudi ZATCA Phase-2 Fatoora Cryptographic e-Invoice Signer Skill",
+  "category": "Agentic Commerce (e-Invoicing / MENA Tax Compliance)",
+  "description": "Validates Saudi ZATCA Phase-2 Fatoora UBL 2.1 XML invoices, generates ECDSA secp256k1 digital signatures, SHA-256 invoice hashing, and ZATCA compliance QR code TLV structures.",
+  "author": {
+    "name": "GenPark Ecosystem",
+    "url": "https://www.genpark.ai",
+    "linkedin": "https://www.linkedin.com/company/92955550"
+  },
+  "mcp_tools": [
+    "validate_and_sign_zatca_phase2_invoice"
+  ],
+  "dependencies": []
+}
